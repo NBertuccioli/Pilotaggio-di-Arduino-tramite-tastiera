@@ -13,6 +13,18 @@ Inoltre, all'avvio del codice, il led lampeggerà più volte per via dei dati in
 ![image](https://user-images.githubusercontent.com/99251089/153384484-02249279-65a8-4341-920b-f4dbe724f203.png)
 
 # Codice
+Inizialmente vengono definite tutte le costanti e le variabili;
+
+(ci va il codice)
+
+Nel setup si specifica quale pin viene usato come uscita per controllare il led, si imposta la comunicazione seriale e la sua velocità di trasmissione.
+
+(ci va il codice)
+
+Nel corpo del programma si specifica che, se la variabile tastiera, contiene la lettera "a" il led viene acceso, se contiene la lettera "s" il led viene spento.
+Mentre se si preme un qualsiasi altro tasto (o sequenza di tasti) il flusso di dati viene ignorato.
+
+(ci va il codice)
 
 
 # Espansioni suggerite
