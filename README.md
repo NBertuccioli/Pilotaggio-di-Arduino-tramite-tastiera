@@ -13,7 +13,7 @@ Inoltre, all'avvio del codice, il led lampeggerà più volte per via dei dati in
 ![image](https://user-images.githubusercontent.com/99251089/153384484-02249279-65a8-4341-920b-f4dbe724f203.png)
 
 # Codice
-Inizialmente vengono definite tutte le costanti e le variabili;
+Inizialmente vengono definite tutte le costanti e le variabili.
 
 (ci va il codice)
 
